@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" role="img" aria-label="Cover unavailable">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18151f"/>
+      <stop offset="1" stop-color="#0b0a10"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <circle cx="200" cy="280" r="58" fill="url(#accent)" opacity=".18"/>
+  <path d="M184 254v52a6 6 0 0 0 9 5.2l44-26a6 6 0 0 0 0-10.4l-44-26a6 6 0 0 0-9 5.2Z" fill="url(#accent)"/>
+  <text x="200" y="372" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#948da5">ANISTREAM</text>
+</svg>
